@@ -20,6 +20,10 @@
   ## Installation
   
   Aside from Express.js, this application also utilize fs, util, and path package from Node.js. These packages could be invoked using require command and will not require any modules outside of the standard node.js.
+
+  The application could be accessed in the following link:
+
+  The repo for this application could be accessed in the following link:
   
   
   ## Usage 
