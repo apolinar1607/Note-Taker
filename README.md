@@ -35,7 +35,6 @@
   
   The following images provides some highlights on the application functionality: 
 
-  The following image demonstrates the application functionality:
 
   ### Home Page
   ![Home Page](./public/assets/img/home-page.PNG)
