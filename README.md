@@ -21,15 +21,29 @@
   
   Aside from Express.js, this application also utilize fs, util, and path package from Node.js. These packages could be invoked using require command and will not require any modules outside of the standard node.js.
 
-  The application could be accessed in the following link:
+  The application (deployed in Heroku) is available in the following link:
+
+  https://note-taker-am.herokuapp.com/
+
 
   The repo for this application could be accessed in the following link:
+
+  https://github.com/apolinar1607/Note-Taker.git
   
   
   ## Usage 
   
   The following images provides some highlights on the application functionality: 
-  
+
+  The following image demonstrates the application functionality:
+
+  ### Home Page
+  ![Home Page](./public/assets/img/home-page.PNG)
+
+  ### Working Demo
+  ![Working App with Entries](./public/assets/img/working-demo.PNG)
+
+
   
   ## License
   
